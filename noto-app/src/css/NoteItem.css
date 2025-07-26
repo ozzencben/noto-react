@@ -1,0 +1,30 @@
+.note-box {
+  background-color: whitesmoke;
+  padding: 10px 20px;
+  border-radius: 10px;
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.category {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  padding: 5px;
+  border-bottom: 0.5px solid black;
+}
+
+.category span {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+
+.note-text-box {
+  padding-top: 10px;
+}
+
+.note-text-box p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
